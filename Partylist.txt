@@ -3,6 +3,7 @@ ____________
 Beers
 Sodas
 Wine
+Water
 
 Food List
 ____________
